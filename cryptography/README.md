@@ -2,7 +2,9 @@
 
 The notebook includes recipes for creating key pair, creating certs with userdefined attributes and custom extensions, as well as various ways to sign the cert, creating root and intermediate certs and use them to sign other certs
 
-**certsHelper Tool**
+---
+
+## certsHelper Tool
 
 - load certs from any format including from packet caps,
 - create a new cert with attributes and extensions of your choosing
