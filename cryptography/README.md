@@ -10,7 +10,7 @@ The notebook includes recipes for creating key pair, creating certs with userdef
 - create a new cert with attributes and extensions of your choosing
 - copycert: copy attributes and extensions of a cert and create a new cert with those 
 
-##### usage  
+#### Usage  
 
 ###### Example1:
 
