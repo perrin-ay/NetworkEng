@@ -1,6 +1,8 @@
 **NOTEBOOK**
 
-The notebook includes recipes for creating key pair, creating certs with userdefined attributes and custom extensions, as well as various ways to sign the cert, creating root and intermediate certs and use them to sign other certs
+Keys and Certs notebook includes recipes for creating key pair, creating certs with userdefined attributes and custom extensions, as well as various ways to sign the cert, creating root and intermediate certs and use them to sign other certs
+
+scapy_TLS includes recipes to create TLS client/servers with granular control over TLS layers. 
 
 ---
 
