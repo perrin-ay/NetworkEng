@@ -4,7 +4,7 @@
 
 ### Packet captures dashboard
 
-![caps]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/perrin-ay/NetworkEng/blob/main/Elastic/images/caps_es.gif))
+![caps](https://github.com/perrin-ay/NetworkEng/blob/main/Elastic/images/caps_es.gif)
 
 
 ### Packet captures with TLS dashboard
